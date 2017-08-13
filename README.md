@@ -1,3 +1,10 @@
+2017/8/13 8:09:49 
+#### CSS variables
+- 了解了css变量的用法   在css中如何书写，以及在js中如何设置和读取
+- document.documentElement.style.setProperty
+- 自定义属性的获取   dataset   getAttribute
+
+
 
 1. let 和 const
 
